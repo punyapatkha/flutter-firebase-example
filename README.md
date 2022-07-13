@@ -6,5 +6,5 @@ A new Flutter project.
 
 # avaliable feature
 - Gmail login with firebase authentication
-- chat with firebase firestore
+- Chat with firebase firestore
 
